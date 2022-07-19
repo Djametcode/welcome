@@ -54,3 +54,9 @@ body {
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
 }
+@media only screen and (max-width: 393px) {
+    .logintext {
+        font-size: 10px;
+        padding: 5px;
+    }
+}
