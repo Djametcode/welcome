@@ -1,0 +1,56 @@
+body {
+    background-image: url("asset/brick-wall-texture.jpg");
+    background-size: cover;
+
+}
+
+#logincover {
+    background-color: rgba(211, 211, 211, 0.396);
+    text-align: center;
+    line-height: 35px;
+    padding: 20px;
+    margin: 175px 35% 0px 35%;
+    border-radius: 45px;
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+}
+.logintext {
+    background-color: rgba(255, 255, 255, 0.485);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 25px 15% 0 15%;
+    font-size: 1.5em;
+}
+.loginbtn{
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 10px;
+}
+.form {
+    background-color: rgba(255, 255, 255, 0.786);
+    padding: 10px;
+    margin: 25px 15% 25px 15%;
+    border-radius: 30px;
+}
+.form input {
+    border-radius: 10px;
+    border: none;
+    padding: 6px;
+    background-color: lightgrey;
+}
+.form a {
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+}
+.fanspage a {
+    text-decoration: none;
+    padding: 5px;
+}
+.form a:hover {
+
+}
+.footer {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
