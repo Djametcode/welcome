@@ -1,0 +1,30 @@
+body {
+background-image: url(asset/perry-kibler-xofDkCEAFsE-unsplash.jpg);
+background-size: cover;
+
+}
+
+
+.form {
+    line-height: 35px;
+    background-color: rgba(255, 255, 255, 0.435);
+    padding: 25px;
+    text-align: center;
+    width: 17%;
+    position: relative;
+    transform: translateY(200px);
+    border-radius: 20px;
+}
+.form input {
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+
+}
+.form a {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 3px;
+    border-radius: 7px;
+}
